@@ -31,7 +31,7 @@ Build a simple companion matcher app that:
   "age": 23,
   "interests": ["music", "tech", "sports", "gaming"]
 }
-
+```
 ## Sample Output
 
 ```json

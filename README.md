@@ -1,10 +1,10 @@
-# 🤝 Companion Matcher - Mini Project Challenge
+# Companion Matcher - Mini Project Challenge
 
 A full-stack application that allows users to create basic profiles, find matches based on shared interests, and shortlist potential companions.
 
 ---
 
-## 🚀 Objective
+## Objective
 
 Build a simple companion matcher app that:
 
@@ -14,24 +14,34 @@ Build a simple companion matcher app that:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js
 - **Backend**: Node.js + Express.js
-- **Database**: In-memory (or lightweight DB like lowdb, SQLite)
+- **Database**: SQLite
 
 ---
 
-## ✨ Features
+## Example
+## Sample Input
 
-### 🔧 Backend (REST API)
-
-#### `POST /users`
-- Creates a new user profile
-- Request body:
 ```json
 {
   "name": "Amit",
   "age": 23,
   "interests": ["music", "tech", "sports", "gaming"]
 }
+
+## Sample Output
+
+```json
+[
+  {
+    "name": "Sanya",
+    "interests": ["tech", "music", "reading"]
+  },
+  {
+    "name": "Nikhil",
+    "interests": ["sports", "gaming", "tech"]
+  }
+]

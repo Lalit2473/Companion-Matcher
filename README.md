@@ -33,6 +33,7 @@ Build a simple companion matcher app that:
 ## Sample Input
 <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/f9b4498a-e572-42bd-b71f-011fdc2dd151" />
 ---
+
 ## Sample Output
 <img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/c6a30e4d-a02a-4741-bb7a-43c1e75f5020" />
 

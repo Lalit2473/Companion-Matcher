@@ -11,7 +11,14 @@ Build a simple companion matcher app that:
 - Lets users create a basic profile
 - Finds potential matches based on **at least 2 shared interests**
 - Allows users to indicate interest in others (shortlist)
+---
 
+## Features
+
+- Create user profiles with name, age, and interests
+- Retrieve matching users based on shared interests
+- Shortlist users you're interested in
+- Simple and clean user interface
 ---
 
 ## Tech Stack
